@@ -43,6 +43,11 @@
       "repeatable": false,
       "component": "page.section-modules",
       "required": true
+    },
+    "sectionAgenda": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-agenda"
     }
   }
 }
