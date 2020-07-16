@@ -22,6 +22,16 @@
       "type": "component",
       "repeatable": false,
       "component": "page.header"
+    },
+    "sectionAboutProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-project"
+    },
+    "sectionTech": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-tech"
     }
   }
 }
