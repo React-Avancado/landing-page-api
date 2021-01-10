@@ -7,6 +7,7 @@ import styled from "styled-components";
 const Wrapper = styled.div`
   .ck-editor__main {
     min-height: 200px;
+    cursor: text;
     > div {
       min-height: 200px;
     }
